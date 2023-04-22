@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main - Returns the alphabet
  * Return: Always (Success)
  */
