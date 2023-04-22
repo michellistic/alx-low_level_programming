@@ -30,5 +30,5 @@ int main(void)
 		{
 			printf("Last digit of %d is %d and is less than 5 and not zero\n", n, lastd);
 		}
-	return (0)
+	return (0);
 }
