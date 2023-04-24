@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(void)i
+int main(void)
 {
 int n;
 	for (n = '0'; n <= '9'; n++)
