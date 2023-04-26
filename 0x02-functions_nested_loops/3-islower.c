@@ -7,12 +7,13 @@
 
 int_islower(int c)
 {
-	char c;
-	if (c = 'a'; c <= 'z';)
+	int c;
+	
+	if (c >= 97 && c <= 122)
 	{
 		return (1);
 	}
-	else (c = 'A'; c <= 'Z';)
+	else
 	{
 		return (0);
 	}
