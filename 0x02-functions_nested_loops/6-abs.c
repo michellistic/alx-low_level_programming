@@ -6,7 +6,7 @@
  * Retunr: Absolute value of number or zero
  */
 
-int _abs(int)
+int _abs(int c)
 {
 	if (c < 0)
 	{
