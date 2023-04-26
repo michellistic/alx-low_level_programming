@@ -3,10 +3,10 @@
 /**
  * print_last_digit - Prints last digit
  * @n: number to be checked
- * Return: Last
+ * Return: igfr
  */
 
-int print_last_digit{int}
+int print_last_digit(int)
 {
 	int last;
 
