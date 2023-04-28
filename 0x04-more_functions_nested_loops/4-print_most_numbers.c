@@ -2,6 +2,7 @@
 
 /**
  * print_most_numbers - prints numbers
+ * Description: prints the numbers excluding 2 and 4
  * Return: numbers except 2 and 4
  */
 
