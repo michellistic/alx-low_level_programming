@@ -29,7 +29,7 @@ int main(void)
 		}
 	if (n != 100)
 	{
-		printf("_");
+		printf(" ");
 	}
 	}
 	printf("\n");
