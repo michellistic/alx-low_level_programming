@@ -3,7 +3,7 @@
 /**
  * print_line - what can i say.
  * @n: number of times the character _ is printed
- * Eeturn: hopefully a straight line
+ * Return: hopefully a straight line
  */
 
 void print_line(void)
