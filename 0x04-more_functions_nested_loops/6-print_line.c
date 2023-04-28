@@ -6,7 +6,7 @@
  * Return: hopefully a straight line
  */
 
-void print_line(void)
+void print_line(int n)
 {
 	int x;
 
