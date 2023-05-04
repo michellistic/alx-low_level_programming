@@ -4,6 +4,7 @@
  * _strncpy - Copies a number of bytes
  * @dest: buffer storing string copy
  * @src: source string
+ * @n: number
  * Return: dest
  */
 
